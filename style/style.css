@@ -18,3 +18,11 @@ span {
     text-transform: uppercase;
 }
 
+.main {
+    background: linear-gradient(45deg, black, purple);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
